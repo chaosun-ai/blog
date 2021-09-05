@@ -31,7 +31,7 @@ about-author: Engineer, researcher and educator. Avid learner with diverse inter
 # Contact links
 email: chaosun.ai@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+website: https://chaosun-ai.github.io # Add your website
 linkedin: -chao-sun/ # Add your Linkedin handle
 github:  # Add your Github handle
 twitter:  # Add your Twitter handle
@@ -45,8 +45,8 @@ discus_identifier: #amaynez-github-io # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+analytics: #G-R8SZS2YBZK
+fbadmin: #ar.maybach
 
 # Paginate
 paginate: 6
