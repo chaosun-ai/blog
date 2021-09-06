@@ -5,7 +5,7 @@ show_date: true
 title: "How to Bring Your Own Custom ML Models with Amazon SageMaker?"
 date: 2021-09-06
 img: posts/container.jpg
-tags: [docker, AWS, SageMaker]
+tags: [Docker, AWS, SageMaker]
 category: opinion
 author: Chao Sun
 description: "AWS introduction to use docker in SageMaker."
