@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Why use docker for machine learning?"
 date: 2021-09-06
-img: posts/20210420/post8-rembrandt.jpg
+img: posts/ML_read book.png
 tags: [Docker, machine learning]
 category: opinion
 author: Chao Sun
