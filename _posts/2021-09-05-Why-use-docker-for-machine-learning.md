@@ -12,7 +12,7 @@ description: "Links to Amazon"
 ---
 Why use docker for machine learning?
 
-Here is the answer from AWS.
+Here is the answer from AWS. 
 
 [Chinese Version](https://aws.amazon.com/cn/blogs/china/why-use-docker-containers-for-machine-learning-development/) 
 
